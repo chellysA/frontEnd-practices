@@ -1,0 +1,109 @@
+.logo {
+  border-radius: 50%;
+  height: 10vh;
+  margin-top: 5px;
+  margin-right: 7px;
+}
+.pic {
+  position: relative;
+  top: 5px;
+  margin-right: 4px;
+  margin-left: 4px;
+  border-radius: 50%;
+  height: 10vh;
+  margin-top: 5px;
+}
+.container-fluid {
+  background-color: rgb(232, 236, 239);
+}
+#nav-bar {
+  background-color: white;
+  display: flex;
+}
+#right {
+  display: flex;
+  justify-content: space-between;
+}
+#search {
+  border-radius: 50%;
+  height: 38px;
+  background-color: rgb(232, 236, 239);
+  border: none;
+}
+#search-box {
+  padding: 12px;
+  padding-left: 0px;
+}
+#home {
+  height: 6vh;
+  margin-top: 12px;
+}
+#whatch {
+  height: 6vh;
+  margin-top: 12px;
+}
+#marketP {
+  height: 6vh;
+  margin-top: 12px;
+}
+#groups {
+  height: 6vh;
+  margin-top: 12px;
+}
+#ham {
+  height: 6vh;
+  margin-top: 12px;
+}
+#crear {
+  border-radius: 50%;
+  height: 38px;
+  background-color: rgb(232, 236, 239);
+  border: none;
+}
+#crear-box {
+  padding: 12px;
+  padding-left: 0px;
+}
+#messe {
+  border-radius: 50%;
+  height: 38px;
+  background-color: rgb(232, 236, 239);
+  border: none;
+}
+#messe-box {
+  padding: 12px;
+  padding-left: 0px;
+}
+#notif {
+  border-radius: 50%;
+  height: 38px;
+  background-color: rgb(232, 236, 239);
+  border: none;
+}
+#notif-box {
+  padding: 12px;
+  padding-left: 0px;
+}
+#name {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+#date {
+  font-size: 13px;
+  color: grey;
+}
+.name-box {
+  display: flex;
+}
+
+#history {
+  background-color: white;
+  height: 150vh;
+  position: absolute;
+  top: 90px;
+}
+.name-box2 {
+  margin-left: 5px;
+}
